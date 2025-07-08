@@ -3,6 +3,7 @@ package kneeonbelly.attendancesystem.member.domain
 import kneeonbelly.attendancesystem.member.application.MemberCreateRequest
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.BeforeEach
+import java.time.LocalDate
 import kotlin.test.Test
 
 class MemberTest(
